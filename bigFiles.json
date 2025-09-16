@@ -11,6 +11,18 @@
       "version": "1.0",
 	  "fileFormat": "zip",
       "path_drive": "https://drive.google.com/file/d/1bS4lEAO6ZcAdkMsQr9UQDyFVGriYqQ7n"
+    },
+	{
+      "id": "transacciones3M",
+      "version": "1.0",
+	  "fileFormat": "csv",
+      "path_drive": "https://drive.google.com/file/d/151iMovuKmqCc_i3i715cEwGjv0gRny5U"
+    },
+	{
+      "id": "transacciones30M",
+      "version": "1.0",
+	  "fileFormat": "csv",
+      "path_drive": "https://drive.google.com/file/d/1hv7QUQ2SurW-Dr_1w_W9N-az0bJqnZpW"	  
     }
   ]
 }
