@@ -1,0 +1,122 @@
+[
+  {
+    "event_id": "EVT-001",
+    "timestamp": "2026-03-31T08:01:12Z",
+    "product_id": "B00002N8SM",
+    "product_name": "Victor M380 Fly Trap Indoor",
+    "old_price": 12.99,
+    "new_price": 6.49,
+    "stock_level": 312,
+    "alert_type": "CAIDA_PRECIO"
+  },
+  {
+    "event_id": "EVT-002",
+    "timestamp": "2026-03-31T08:03:45Z",
+    "product_id": "B001E4KFG0",
+    "product_name": "Wellness Core Natural Dog Food",
+    "old_price": 54.99,
+    "new_price": 54.99,
+    "stock_level": 8,
+    "alert_type": "SIN_STOCK"
+  },
+  {
+    "event_id": "EVT-003",
+    "timestamp": "2026-03-31T08:07:30Z",
+    "product_id": "B004ET5TP4",
+    "product_name": "Green Mountain Coffee Dark Magic",
+    "old_price": 42.00,
+    "new_price": 29.99,
+    "stock_level": 45,
+    "alert_type": "CAIDA_PRECIO"
+  },
+  {
+    "event_id": "EVT-004",
+    "timestamp": "2026-03-31T08:11:00Z",
+    "product_id": "B000H26J7E",
+    "product_name": "Katz-n-Flocken Cat Litter",
+    "old_price": 18.50,
+    "new_price": 18.50,
+    "stock_level": 3,
+    "alert_type": "SIN_STOCK"
+  },
+  {
+    "event_id": "EVT-005",
+    "timestamp": "2026-03-31T08:14:22Z",
+    "product_id": "B002EAN3T4",
+    "product_name": "EcoSmart Fly Ribbon Traps",
+    "old_price": 9.99,
+    "new_price": 4.99,
+    "stock_level": 201,
+    "alert_type": "CAIDA_PRECIO"
+  },
+  {
+    "event_id": "EVT-006",
+    "timestamp": "2026-03-31T08:18:05Z",
+    "product_id": "B00178HFW2",
+    "product_name": "Organic Valley Whole Milk Powder",
+    "old_price": 22.00,
+    "new_price": 22.00,
+    "stock_level": 0,
+    "alert_type": "SIN_STOCK"
+  },
+  {
+    "event_id": "EVT-007",
+    "timestamp": "2026-03-31T08:22:40Z",
+    "product_id": "B001HTKZ5S",
+    "product_name": "Farnam Home and Garden Fly Tape",
+    "old_price": 7.50,
+    "new_price": 3.25,
+    "stock_level": 88,
+    "alert_type": "CAIDA_PRECIO"
+  },
+  {
+    "event_id": "EVT-008",
+    "timestamp": "2026-03-31T08:25:10Z",
+    "product_id": "B000LQOCH0",
+    "product_name": "Aplets & Cotlets Gift Box",
+    "old_price": 14.99,
+    "new_price": 14.99,
+    "stock_level": 2,
+    "alert_type": "SIN_STOCK"
+  },
+  {
+    "event_id": "EVT-009",
+    "timestamp": "2026-03-31T08:29:55Z",
+    "product_id": "B004PXEZAE",
+    "product_name": "Rescue! Disposable Fly Trap",
+    "old_price": 11.00,
+    "new_price": 5.50,
+    "stock_level": 134,
+    "alert_type": "CAIDA_PRECIO"
+  },
+  {
+    "event_id": "EVT-010",
+    "timestamp": "2026-03-31T08:33:20Z",
+    "product_id": "B0041CIOL0",
+    "product_name": "Catchmaster 72MB Fly Glue Board",
+    "old_price": 15.00,
+    "new_price": 15.00,
+    "stock_level": 1,
+    "alert_type": "SIN_STOCK"
+  },
+  {
+    "event_id": "EVT-011",
+    "timestamp": "2026-03-31T08:37:00Z",
+    "product_id": "B001E96JY2",
+    "product_name": "Aunt Jemima Original Syrup",
+    "old_price": 5.49,
+    "new_price": 2.99,
+    "stock_level": 560,
+    "alert_type": "CAIDA_PRECIO"
+  },
+  {
+    "event_id": "EVT-012",
+    "timestamp": "2026-03-31T08:41:15Z",
+    "product_id": "B003U0O0X0",
+    "product_name": "Delectables Squeeze Up Cat Treats",
+    "old_price": 9.00,
+    "new_price": 9.00,
+    "stock_level": 4,
+    "alert_type": "SIN_STOCK"
+  }
+]

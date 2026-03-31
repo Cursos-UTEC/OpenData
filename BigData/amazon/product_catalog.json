@@ -1,0 +1,167 @@
+[
+  {
+    "product_id": "B00002N8SM",
+    "name": "Victor M380 Fly Trap Indoor",
+    "category": "Home & Kitchen",
+    "tags": ["fly trap", "insect control", "indoor"],
+    "nutrition_facts": null,
+    "certifications": [],
+    "sellers": [
+      {"name": "Victor Pest", "rating": 2.1, "fulfillment_type": "FBA"}
+    ]
+  },
+  {
+    "product_id": "B001E4KFG0",
+    "name": "Wellness Core Natural Dog Food",
+    "category": "Pet Supplies",
+    "tags": ["dog food", "grain-free", "protein"],
+    "nutrition_facts": {"calories_per_cup": 421, "protein_pct": 34, "fat_pct": 16},
+    "certifications": ["AAFCO", "Non-GMO"],
+    "sellers": [
+      {"name": "Wellness Pet", "rating": 4.7, "fulfillment_type": "FBA"}
+    ]
+  },
+  {
+    "product_id": "B00813GRG4",
+    "name": "Fisher-Price Snack & Smile Teether",
+    "category": "Baby Products",
+    "tags": ["baby", "teether", "bpa-free"],
+    "nutrition_facts": null,
+    "certifications": ["BPA-Free", "ASTM F963"],
+    "sellers": [
+      {"name": "Fisher-Price", "rating": 4.2, "fulfillment_type": "FBA"}
+    ]
+  },
+  {
+    "product_id": "B002EAN3T4",
+    "name": "EcoSmart Fly Ribbon Traps (8-Pack)",
+    "category": "Home & Kitchen",
+    "tags": ["fly trap", "ribbon", "sticky"],
+    "nutrition_facts": null,
+    "certifications": [],
+    "sellers": [
+      {"name": "EcoSmart Technologies", "rating": 2.4, "fulfillment_type": "FBM"}
+    ]
+  },
+  {
+    "product_id": "B000H26J7E",
+    "name": "Katz-n-Flocken Cat Litter",
+    "category": "Pet Supplies",
+    "tags": ["cat litter", "clumping", "natural"],
+    "nutrition_facts": null,
+    "certifications": [],
+    "sellers": [
+      {"name": "Gaia Herbs", "rating": 2.8, "fulfillment_type": "FBM"}
+    ]
+  },
+  {
+    "product_id": "B001E96JY2",
+    "name": "Aunt Jemima Original Syrup",
+    "category": "Grocery & Gourmet Food",
+    "tags": ["syrup", "breakfast", "pancake"],
+    "nutrition_facts": {"calories_per_serving": 210, "sugar_g": 32, "fat_g": 0},
+    "certifications": [],
+    "sellers": [
+      {"name": "Quaker Foods", "rating": 3.1, "fulfillment_type": "FBA"}
+    ]
+  },
+  {
+    "product_id": "B000LQOCH0",
+    "name": "Aplets & Cotlets Gift Box",
+    "category": "Grocery & Gourmet Food",
+    "tags": ["candy", "turkish delight", "gift"],
+    "nutrition_facts": {"calories_per_serving": 140, "sugar_g": 28, "fat_g": 1},
+    "certifications": ["Kosher", "Gluten-Free"],
+    "sellers": [
+      {"name": "Liberty Orchards", "rating": 4.5, "fulfillment_type": "FBA"}
+    ]
+  },
+  {
+    "product_id": "B000UA0QIQ",
+    "name": "Lorann Oils Cherry Bakery Emulsion",
+    "category": "Grocery & Gourmet Food",
+    "tags": ["baking", "flavoring", "extract"],
+    "nutrition_facts": {"calories_per_serving": 0, "sugar_g": 0, "fat_g": 0},
+    "certifications": ["Kosher", "Gluten-Free"],
+    "sellers": [
+      {"name": "LorAnn Oils", "rating": 4.3, "fulfillment_type": "FBA"}
+    ]
+  },
+  {
+    "product_id": "B004ET5TP4",
+    "name": "Green Mountain Coffee Dark Magic",
+    "category": "Grocery & Gourmet Food",
+    "tags": ["coffee", "k-cup", "dark roast"],
+    "nutrition_facts": {"calories_per_serving": 5, "sugar_g": 0, "fat_g": 0},
+    "certifications": [],
+    "sellers": [
+      {"name": "Keurig Dr Pepper", "rating": 2.3, "fulfillment_type": "FBA"}
+    ]
+  },
+  {
+    "product_id": "B003U0O0X0",
+    "name": "Delectables Squeeze Up Cat Treats",
+    "category": "Pet Supplies",
+    "tags": ["cat treats", "wet", "squeeze"],
+    "nutrition_facts": {"calories_per_serving": 15, "protein_pct": 9, "fat_pct": 3},
+    "certifications": [],
+    "sellers": [
+      {"name": "Hartz", "rating": 2.6, "fulfillment_type": "FBM"}
+    ]
+  },
+  {
+    "product_id": "B00002N9TX",
+    "name": "Purina Pro Plan Adult Dry Dog Food",
+    "category": "Pet Supplies",
+    "tags": ["dog food", "dry", "adult"],
+    "nutrition_facts": {"calories_per_cup": 385, "protein_pct": 30, "fat_pct": 17},
+    "certifications": ["AAFCO", "Veterinarian Recommended"],
+    "sellers": [
+      {"name": "Purina", "rating": 4.6, "fulfillment_type": "FBA"}
+    ]
+  },
+  {
+    "product_id": "B00178HFW2",
+    "name": "Organic Valley Whole Milk Powder",
+    "category": "Grocery & Gourmet Food",
+    "tags": ["milk", "organic", "powder"],
+    "nutrition_facts": {"calories_per_serving": 150, "sugar_g": 12, "fat_g": 8},
+    "certifications": ["USDA Organic", "Non-GMO", "Kosher"],
+    "sellers": [
+      {"name": "Organic Valley", "rating": 4.4, "fulfillment_type": "FBA"}
+    ]
+  },
+  {
+    "product_id": "B004PXEZAE",
+    "name": "Rescue! Disposable Fly Trap",
+    "category": "Home & Kitchen",
+    "tags": ["fly trap", "outdoor", "disposable"],
+    "nutrition_facts": null,
+    "certifications": [],
+    "sellers": [
+      {"name": "RESCUE!", "rating": 3.0, "fulfillment_type": "FBM"}
+    ]
+  },
+  {
+    "product_id": "B001HTKZ5S",
+    "name": "Farnam Home and Garden Fly Tape",
+    "category": "Home & Kitchen",
+    "tags": ["fly control", "tape", "adhesive"],
+    "nutrition_facts": null,
+    "certifications": [],
+    "sellers": [
+      {"name": "Farnam Companies", "rating": 1.9, "fulfillment_type": "FBM"}
+    ]
+  },
+  {
+    "product_id": "B0041CIOL0",
+    "name": "Catchmaster 72MB Fly Glue Board",
+    "category": "Home & Kitchen",
+    "tags": ["fly control", "glue", "commercial"],
+    "nutrition_facts": null,
+    "certifications": [],
+    "sellers": [
+      {"name": "AP&G", "rating": 2.2, "fulfillment_type": "FBM"}
+    ]
+  }
+]
