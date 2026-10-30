@@ -1,0 +1,61 @@
+{
+  "semilla": 2026,
+  "filas_limpias": 384,
+  "filas_crudas": 394,
+  "umbral_atipico": 3.0,
+  "sintetico": true,
+  "nombres_inconsistentes": 134,
+  "fechas_por_formato": {
+    "AAAA-MM-DD": 185,
+    "DD/MM/AAAA": 118,
+    "mes-AAAA": 81
+  },
+  "precios_faltantes": 19,
+  "precios_x10": 6,
+  "precios_x10_detalle": [
+    {
+      "fecha": "2024-03-01",
+      "producto": "Maracuyá",
+      "mercado": "Mercado Mayorista de Frutas N.° 2",
+      "precio_real": 1.9,
+      "precio_crudo": 19.0
+    },
+    {
+      "fecha": "2024-07-01",
+      "producto": "Mango",
+      "mercado": "Mercado Mayorista de Frutas N.° 2",
+      "precio_real": 3.49,
+      "precio_crudo": 34.9
+    },
+    {
+      "fecha": "2024-06-01",
+      "producto": "Piña",
+      "mercado": "Gran Mercado Mayorista de Lima",
+      "precio_real": 1.6,
+      "precio_crudo": 16.0
+    },
+    {
+      "fecha": "2024-07-01",
+      "producto": "Piña",
+      "mercado": "Gran Mercado Mayorista de Lima",
+      "precio_real": 1.52,
+      "precio_crudo": 15.2
+    },
+    {
+      "fecha": "2025-05-01",
+      "producto": "Limón",
+      "mercado": "Gran Mercado Mayorista de Lima",
+      "precio_real": 6.04,
+      "precio_crudo": 60.4
+    },
+    {
+      "fecha": "2025-08-01",
+      "producto": "Fresa",
+      "mercado": "Gran Mercado Mayorista de Lima",
+      "precio_real": 5.65,
+      "precio_crudo": 56.5
+    }
+  ],
+  "filas_duplicadas": 10,
+  "ratio_maximo_precio_real": 1.92
+}
